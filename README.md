@@ -20,3 +20,12 @@ Since it's depend on deep learning models, generative AI can simulate advanced a
 It also points out the implementation of security protocols. It also plays a pivotal role in training, providing realistic and dynamic scenarios that help improve the decision-making skills of IT security professionals.
 
 Generative AI's should maintain integrity and resilience of cyber security infrastructures.
+
+# Application of Generative AI in cyber security
+
+Detect and create phishing attacks
+
+Can create dataset that look similar as real data set
+
+
+

@@ -27,5 +27,28 @@ Detect and create phishing attacks
 
 Can create dataset that look similar as real data set
 
+Automated security policy generation
 
+Incident response
 
+Behavior analysis and anomaly detection
+
+Reporting
+
+# Risks of generative AI in cyber security
+
+Phishing and social engineering
+
+Deepfakes
+
+Malware development
+
+Exploiting vulnerabilities
+
+Automated hacking
+
+Bypassing security measures
+
+# AI pipeline securing 
+
+Resilient data governance, encryption and secure coding practices, multi-factor authentication, and continuous monitoring and response are the ways for AI pipeline securing.
